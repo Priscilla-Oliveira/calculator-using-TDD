@@ -1,0 +1,14 @@
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Workspace\WEX_Bootcamp\calculator-using-TDD\Calculator\obj\Debug\net7.0\ref\Calculator.dll
